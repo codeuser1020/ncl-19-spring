@@ -1,6 +1,6 @@
 #  Decoding 3
 
-#### We have recovered an encrypted message. We think it's encrypted with some sort of substitution cipher, but we need your help to decode it.
+### We have recovered an encrypted message. We think it's encrypted with some sort of substitution cipher, but we need your help to decode it.
 
 If the cipher method is not evident look through a [list](http://www.practicalcryptography.com/ciphers/substitution-category/) of ciphers to try and help.
 
