@@ -1,6 +1,6 @@
 #  Decoding 5
 
-#### We found a cipher wheel along with several messages we suspect were encrypted with it. See if you can decode them.
+### We found a cipher wheel along with several messages we suspect were encrypted with it. See if you can decode them.
 
 ![Wheel](Cipher_Wheel.png)
 
