@@ -7,16 +7,16 @@ From the dymnasium practice problems, I guessed that the [Digital Invisible Ink 
 1. What is the algorithm used to encrypt the flag?
 
 <details>
-<summary>Flag</summary>
+  <summary>Flag</summary>
 
-`Battle Steg`
+    Battle Steg
 </details>
 
 
 2. What is the hidden flag in the image?
 
 <details>
-<summary>Flag</summary>
+  <summary>Flag</summary>
 
-`SKY-QLPO-4833`
+    SKY-QLPO-4833
 </details>
