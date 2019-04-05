@@ -12,9 +12,9 @@ Since they tell us that the start with "SKY" we can use python to determin the n
 
 
 <details>
-<summary>Flag</summary>
+  <summary>Flag</summary>
 
-`SKY-GHUK-1271`
+    SKY-GHUK-1271
 </details>
 
 2. `HZN-ADQU-4229`
@@ -25,7 +25,7 @@ Since they tell us that the start with "SKY" we can use python to determin the n
 
 
 <details>
-<summary>Flag</summary>
+  <summary>Flag</summary>
 
-`SKY-LOBF-4229`
+    SKY-LOBF-4229
 </details>
