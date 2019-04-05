@@ -1,6 +1,6 @@
 #  Stego 3
 
-#### Hackers have been trying to prevent us from viewing their images by converting them into data streams. See if you can revert them back to images.
+### Hackers have been trying to prevent us from viewing their images by converting them into data streams. See if you can revert them back to images.
 
 1. What is the hidden flag?
 
