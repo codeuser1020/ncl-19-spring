@@ -2,7 +2,7 @@
 
 #### Our officers have obtained some encrypted messages. See if you can decode them.
 
-![img](Decoding_4.jpg)
+![img](Decoding_4.png)
 
 
 1. What is the plaintext of the encrypted message?
