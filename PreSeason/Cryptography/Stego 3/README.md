@@ -10,7 +10,7 @@ Copying the first line of the text file and searching for it on google reveals r
 <details>
 <summary>Script</summary>
 
-```
+```python
 import imageio
 import numpy as np
 from PIL import Image
