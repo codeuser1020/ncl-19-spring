@@ -5,7 +5,7 @@
 Since they tell us that the start with "SKY" we can use python to determin the number of characters rotated and then use an online [tool](https://cryptii.com/pipes/caesar-cipher) to decode.
 
 1. `FXL-TUHX-1271`
-```
+```python
 >>> ord('S') - ord('F')
 13
 ```
@@ -18,7 +18,7 @@ Since they tell us that the start with "SKY" we can use python to determin the n
 </details>
 
 2. `HZN-ADQU-4229`
-```
+```python
 >>> ord('S') - ord('H')
 11
 ```
