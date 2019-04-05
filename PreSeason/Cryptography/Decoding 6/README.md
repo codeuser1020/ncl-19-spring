@@ -19,7 +19,7 @@
 1. What is the plaintext of the encrypted message?
 
 The ruleset can be decoded by hand. Python can be used to help in the decoding process.
-```
+```python
 >>> chr(ord('@') + 6) # translate 6
 'F'
 >>> chr(ord('@') + (ord('E') - ord('@'))*2) # translate 2E
@@ -52,7 +52,7 @@ T = B
 </details>
 
 Using python the message can be easily decoded.
-```
+```python
 alph = { 'H': 'A', 'S': 'F', 'T': 'I', 'C': 'B', 'D': 'N', 'A': 'H',
 'K': 'G', 'Y': 'C', 'Q': 'V', 'W': 'U', 'J': 'E', 'U': 'P',
 'O': 'L', 'L': 'S', 'F': 'Y', 'P': 'M', 'B': 'T', ' ': ' ' }
@@ -63,7 +63,7 @@ print(''.join([alph[m] for m in msg]))
 ```
 
 <details>
-<summary>Flag</summary>
+  <summary>Flag</summary>
 
-`VULN HVAC SYSTEM IS PUBLIC FACING`
+    VULN HVAC SYSTEM IS PUBLIC FACING
 </details>
