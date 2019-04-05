@@ -1,6 +1,6 @@
 # Decoding 2
 
-#### Our officers have obtained some encrypted codes. See if you can decode them. We know they should start with "SKY".
+### Our officers have obtained some encrypted codes. See if you can decode them. We know they should start with "SKY".
 
 Since they tell us that the start with "SKY" we can use python to determin the number of characters rotated and then use an online [tool](https://cryptii.com/pipes/caesar-cipher) to decode.
 
