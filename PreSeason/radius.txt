@@ -1,0 +1,7 @@
+
+
+load pcap file into wireshark
+
+How many access requests were made by "hana.harb"?
+	filter: (radius.User_Name == "hana.harb") && (radius.code == 1)
+	displayed: 22
