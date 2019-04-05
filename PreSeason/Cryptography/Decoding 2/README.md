@@ -13,6 +13,7 @@ Since they tell us that the start with "SKY" we can use python to determin the n
 
 <details>
 <summary>Flag</summary>
+
 `SKY-GHUK-1271`
 </details>
 
@@ -25,5 +26,6 @@ Since they tell us that the start with "SKY" we can use python to determin the n
 
 <details>
 <summary>Flag</summary>
+
 `SKY-LOBF-4229`
 </details>

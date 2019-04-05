@@ -2,7 +2,7 @@
 
 #### We found a cipher wheel along with several messages we suspect were encrypted with it. See if you can decode them.
 
-![Wheel](Cipher Wheel.png)
+![Wheel](Cipher_Wheel.png)
 
 ```
 === Begin Encrypted Messages ===
@@ -21,7 +21,8 @@ Subtracting the difference between the letters from 26 (the number of letters in
 
 <details>
 <summary>Flag</summary>
-<p> `pull the firmware off the ftp server` </p>
+
+ `pull the firmware off the ftp server`
 </details>
 
 <br></br>
@@ -33,5 +34,6 @@ Subtracting the difference between the letters from 26 (the number of letters in
 
 <details>
 <summary>Flag</summary>
-<p> `send me the password hashes` </p>
+
+`send me the password hashes` 
 </details>

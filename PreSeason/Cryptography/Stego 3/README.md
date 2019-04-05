@@ -9,6 +9,7 @@ Copying the first line of the text file and searching for it on google reveals r
 
 <details>
 <summary>Script</summary>
+
 ```
 import imageio
 import numpy as np
@@ -41,5 +42,6 @@ imageio.imwrite('Stego 3.png', data)
 
 <details>
 <summary>Flag</summary>
-<img src="Stego 3 flag.png">
+
+![img](Stego_3_flag.png)
 </details>

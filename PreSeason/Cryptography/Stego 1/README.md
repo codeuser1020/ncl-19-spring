@@ -2,7 +2,7 @@
 
 #### We know there is a hidden flag somewhere in the image, but it just looks black to us. See if you can make some sense out of it.
 
-![](Stego 1.png)
+![](Stego_1.png)
 
 1. What is the hidden flag in the image?
 
@@ -10,7 +10,8 @@ The hint "it just looks back to us" tells us the flag is hidden in the image. An
 
 <details>
 <summary>Flag</summary>
-![](Stego 1 flag.png)
+
+![](Stego_1_flag.png)
 </details>
 
 

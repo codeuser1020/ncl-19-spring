@@ -29,6 +29,7 @@ The ruleset can be decoded by hand. Python can be used to help in the decoding p
 ```
 <details>
 <summary>The final ruleset</summary>
+
 ```
 A = H
 F = S
@@ -63,5 +64,6 @@ print(''.join([alph[m] for m in msg]))
 
 <details>
 <summary>Flag</summary>
+
 `VULN HVAC SYSTEM IS PUBLIC FACING`
 </details>

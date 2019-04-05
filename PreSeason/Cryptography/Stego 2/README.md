@@ -8,7 +8,8 @@ From the dymnasium practice problems, I guessed that the [Digital Invisible Ink 
 
 <details>
 <summary>Flag</summary>
-Battle Steg
+
+`Battle Steg`
 </details>
 
 
@@ -16,5 +17,6 @@ Battle Steg
 
 <details>
 <summary>Flag</summary>
-SKY-QLPO-4833
+
+`SKY-QLPO-4833`
 </details>

@@ -10,6 +10,7 @@ It turns out this was encoded using the Atbash cipher. Use a [tool](http://rumki
 
 <details>
    <summary>Flag</summary>
+   
     `salvadorSquiggles`
 </details>
 
