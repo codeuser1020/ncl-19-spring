@@ -1,6 +1,6 @@
 #  Decoding 6
 
-#### It looks like the hackers have gotten more creative and invented a custom protocol for encrypting messages. Good thing they are terrible at physical security. We've obtained a sticky note with the ruleset they are using. We have filtered the relevant parts. It is up to you to decrypt the message and find out what they are up to.
+### It looks like the hackers have gotten more creative and invented a custom protocol for encrypting messages. Good thing they are terrible at physical security. We've obtained a sticky note with the ruleset they are using. We have filtered the relevant parts. It is up to you to decrypt the message and find out what they are up to.
 
 ```
 ================RULESET================
