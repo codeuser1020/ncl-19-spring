@@ -3,6 +3,6 @@ Writeups for the Spring 2019 season of the National Cyber League CTF competition
 
 | Game        | Status           | 
 | ----------- |:-------------:|
-| Preseason   | [Done](PreSeason) |
+| Preseason   | [WiP](PreSeason) |
 | Individual  | TBD |
 | Team | TBD |
